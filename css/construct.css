@@ -1,0 +1,12 @@
+.bg{
+   height: "700px"; 
+   width: "1000px";
+   position:absolute;
+   top:50%;
+   Left:50%;
+   transform:translate(-50%, -50% );
+   
+}
+body{
+   background-color: #FECF01;
+}
